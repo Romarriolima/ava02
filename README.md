@@ -1,16 +1,17 @@
-# 📚 Avaliação 02 – Gestão de Infraestrutura de Redes
+# 📚 Avaliação 02 – Progamação Mobile
 
 ## 📌 Identificação
-- **Disciplina:** Gestão de Infraestrutura de Redes  
+- **Disciplina:** Progamação Mobile  
 - **Professor:** Airton Marinho  
 - **Alunos:**  
   - Romário Lima  
-  - Dédalo Ferraz  
+  - Dédalo Ferraz
+  - Marcos Antonio  
 
 ---
 
 ## 1. Introdução
-Este repositório contém a implementação prática da **Avaliação 02**, cujo objetivo é aplicar os conceitos de **planejamento, implementação e gerenciamento de infraestrutura de redes** por meio do desenvolvimento de uma aplicação em ambiente containerizado com **Docker** e organizada no **GitHub**.
+Este repositório contém a implementação prática da **Avaliação 02**, cujo objetivo é aplicar os conceitos de **Progamação Mobile** por meio do desenvolvimento de uma aplicação em ambiente containerizado com **Docker** e organizada no **GitHub**.
 
 O projeto aqui apresentado foi estruturado com um **frontend mobile (React Native com Expo)** e um **artigo descritivo** explicando a motivação e aplicação prática (projeto "Fala Comigo").
 
@@ -20,7 +21,7 @@ O projeto aqui apresentado foi estruturado com um **frontend mobile (React Nativ
 O objetivo principal desta avaliação é demonstrar a capacidade de:
 - Organizar o código em repositório GitHub com boas práticas.  
 - Documentar corretamente o projeto em `README.md`.  
-- Aplicar conceitos de infraestrutura de redes e conteinerização usando Docker.  
+- Aplicar conceitos de Progamação Mobile e conteinerização usando Docker.  
 - Desenvolver um aplicativo funcional voltado à comunicação alternativa para alunos com TEA (Transtorno do Espectro Autista).  
 
 ---
@@ -79,11 +80,13 @@ docker run -d -p 3000:3000 fala-comigo
 ---
 
 ## 6. Considerações Finais
-O projeto **Fala Comigo – Comunicação Alternativa Simples** apresenta um exemplo prático da integração entre **infraestrutura de redes** e **aplicação mobile assistiva**.  
+O projeto **Fala Comigo – Comunicação Alternativa Simples** apresenta um exemplo prático da integração entre **Progamação Mobile** e **aplicação mobile assistiva**.  
 Ele demonstra a importância da **documentação clara**, da **organização de repositório** e do uso de **tecnologias modernas** para promover inclusão escolar e acessibilidade.  
 
 ---
 
 ## 7. Autores
 - 👨‍💻 Romário Lima  
-- 👨‍💻 Dédalo Ferraz  
+- 👨‍💻 Dédalo Ferraz
+- 👨‍💻 Marcos Antonio 
+-   
